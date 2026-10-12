@@ -76,9 +76,15 @@ function Experience() {
               </div>
 
               <p className="experience-description">
-                Worked on data analytics projects involving data cleaning,
-                exploratory data analysis, visualization, and extracting
-                meaningful insights from datasets.
+                During my internship at Oasis Infobyte, I gained hands-on experience in data analytics, Python programming, data preprocessing, exploratory data analysis (EDA), and machine learning. I worked on practical projects involving data cleaning, data visualization, sentiment analysis, and customer segmentation, applying analytical techniques to extract meaningful insights from datasets. I strengthened my technical skills in Python, Pandas, NumPy, Matplotlib, and Scikit-learn while improving my problem-solving, critical thinking, and data-driven decision-making abilities. This internship provided valuable practical exposure to real-world data science workflows and enhanced my readiness for entry-level Data Analyst and Data Science roles.
+
+  **Key Highlights:**
+- Completed assigned internship projects and practical tasks.
+- Applied data analysis and machine learning techniques to real-world datasets.
+- Developed skills in data cleaning, visualization, and model evaluation.
+- Improved technical proficiency and analytical problem-solving abilities.
+
+**Performance Metrics:** Projects Completed: 100% | Data Analysis Accuracy: 98 | Tasks Completed: 100
               </p>
 
               <div className="experience-tags">

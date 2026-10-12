@@ -128,7 +128,7 @@ function Projects() {
 
                 {/* Replace this URL with your actual repository */}
                 <a
-                  href="https://github.com/RiteshNoukudkar/OIBSIP-Internship/tree/main/Sentiment_Analysis"
+                  href="https://github.com/Ritesh-noukudkar/Sentiment-Analysis-Model"
                   className="project-btn primary-project-btn"
                 >
                   GitHub ↗
@@ -136,7 +136,7 @@ function Projects() {
 
                 {/* Replace this URL with your actual project */}
                 <a
-                  href="https://github.com/RiteshNoukudkar/OIBSIP-Internship/blob/main/Sentiment_Analysis/README.md"
+                  href="https://sentiment-analysis-model-byritesh.vercel.app/"
                   className="project-btn secondary-project-btn"
                 >
                   View Project ↗
@@ -187,7 +187,7 @@ function Projects() {
               <div className="project-buttons">
 
                 <a
-                  href="https://github.com/RiteshNoukudkar/Retail-Sales-EDA"
+                  href="https://github.com/Ritesh-noukudkar/Reatail-Sales-Analysis-"
                   className="project-btn primary-project-btn"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -196,7 +196,7 @@ function Projects() {
                 </a>
 
                 <a
-                  href="https://github.com/RiteshNoukudkar/Retail-Sales-EDA"
+                  href="https://github.com/Ritesh-noukudkar/Reatail-Sales-Analysis-"
                   className="project-btn secondary-project-btn"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -247,7 +247,7 @@ function Projects() {
 
                 {/* Replace this URL with your actual repository */}
                 <a
-                  href="https://github.com/RiteshNoukudkar/OIBSIP-Internship/tree/main/Customer_Segmentation"
+                  href="https://github.com/Ritesh-noukudkar/Customer-Segmentation-Analysis"
                   className="project-btn primary-project-btn"
                 >
                   GitHub ↗
@@ -255,7 +255,7 @@ function Projects() {
 
                 {/* Replace this URL with your actual project */}
                 <a
-                  href="https://github.com/RiteshNoukudkar/OIBSIP-Internship/blob/main/Customer_Segmentation/README.md"
+                  href="https://github.com/Ritesh-noukudkar/Customer-Segmentation-Analysis"
                   className="project-btn secondary-project-btn"
                 >
                   View Project ↗
