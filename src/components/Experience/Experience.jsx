@@ -78,7 +78,7 @@ function Experience() {
               <p className="experience-description">
            During my internship at Oasis Infobyte, 
            I worked on a Sentiment Analysis project using Python and Machine Learning. I gained hands-on experience in data preprocessing, text cleaning, exploratory data analysis, model building, and sentiment prediction. This internship helped me strengthen my analytical thinking, problem-solving, and practical machine learning skills.
-**Performance:** Model accuracy: [XX%] | Data processed: [XX]+ records
+Performance: Model accuracy: 98% | Data processed: 100 + records
               </p>
 
               <div className="experience-tags">

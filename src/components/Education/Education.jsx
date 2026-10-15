@@ -88,7 +88,7 @@ function Education() {
 
                 <div>
                   <span className="education-level">
-                    HIGHER SECONDARY
+                    HIGHER SECONDARY (12th)
                   </span>
 
                   <h3>
@@ -136,7 +136,7 @@ function Education() {
 
                 <div>
                   <span className="education-level">
-                    SECONDARY EDUCATION
+                    SECONDARY EDUCATION (10th)
                   </span>
 
                   <h3>
